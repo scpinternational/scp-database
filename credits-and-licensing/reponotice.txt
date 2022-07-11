@@ -1,0 +1,57 @@
+Developer Notice and Takedown Contacts:
+According to the developers of this repo, the program, (or software,
+repository or any other similar terms) is completely compliant with
+any licensing, terms and conditions and copyright. If however, you
+believe we may be using a copyrighted material, you see your own
+copyrighted material on here and would like it removed, then please
+do not hesitate to contact us. You can contact the repo owner on
+the designated email of: thomassmithedu44@gmail.com.
+
+Understanding of Various Licenses CC BY-SA 3.0:
+To the users and individuals viewing this, please take notice that
+the "SCP Foundation" and the content within it's websites, pages,
+software and other materials are subject to varying licenses. Ma-
+terials such as the SCP-173 image are subject to copyright prote-
+ction, whereas most of the wiki is subject to the CC BY-SA 3.0, or
+the "Creative Commonns 3.0 Share-Alike" license. For specific lic-
+enses then please view the following web address which will lead
+to the official wiki: https://scp-wiki.wikidot.com/licensing-master-list
+
+CC BY-SA 3.0 Requirements:
+In order to use a work licensed under CC BY-SA 3.0, there are a
+list of requirements required to be met before pusblishing of any
+software and materials.
+1. The name of the work is referenced
+2. The author's name (or however they wish to be known as, inc-
+luding any online aliases as long as they are in quotes, however
+as stated by the wiki, you must use the author's real name or an-
+y other alias they request, if you are contacted by them)
+3. A link back to the source material or another form of reference
+if it is offline
+Please note that the following requirements was listed directly
+in the SCP Foundation Wiki's "Licensing Guide", and so any di-
+screpancies should be fowarded to us and also them. You can
+view the licensing guide at:
+https://scp-wiki.wikidot.com/licensing-guide
+
+Share-Alike:
+This is the most important section, this work is released under
+CC BY-SA 3.0 and so should any other works derived from the
+SCP Foundation or this work. "Share-Alike" terms require that
+any derived work be released under CC BY-SA so that other
+people can use the same license. As the wiki states, it is not
+enough to simply attribute the Foundation.
+
+Developer Notice 2:
+I suggest that you read the official licensing guide as this
+was just a summary of the summary. If you only need the
+basics, view the "Short Version" tab, if you are still not sure
+then view the "Long Version" tab, and if your "field" is not
+mentioned then click "For Specific Creator Types." The wiki
+also has a specialised Licensing Team which you should
+contact about any licensing related topics. If you think we
+are in violation of the license, or there is a mistake in here,
+then please contact us at: thomassmithedu44@gmail.com
+
+ - Sincerely "Thomas Smith"
+
